@@ -1,0 +1,33 @@
+.flex{
+    flex-direction: column;
+}
+.header-class{
+    flex-direction: column;
+}
+#home{
+    height: 653px;
+    padding: 94px 10px;
+    margin-top: 28px;
+}
+#home::before{
+    height: 44.8125rem;
+}
+#home .h-primary {
+    font-size: 0.5rem;
+}
+.services-container {
+    height: 100%;
+}
+.services-container img {
+    width: 8rem;}
+.HI-div {
+width: 80%;    
+}
+
+.nav-bar-class ul{
+    justify-content: space-between
+}
+
+.nav-bar-class ul a{
+    padding: 2px;
+}
